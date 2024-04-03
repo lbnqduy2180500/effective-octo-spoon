@@ -1,5 +1,5 @@
 {
-  "name": "@lbnqduy2180500/sturdy-winner",
+  "name": "@lbnqduy2180500/effective-octo-spoon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbnqduy2180500/sturdy-winner.git"
+    "url": "https://github.com/lbnqduy2180500/effective-octo-spoon.git"
   },
   "dependencies": {
     "@lbnqduy/cautious-happiness": "^1.0.0",
